@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MH_Base_V2", "MH_Base_V2\MH_Base_V2.vcxproj", "{FCC1B757-4432-468B-8878-8D9A2BF3FD35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Mod Hub|x64 = Mod Hub|x64
+		Mod Hub|x86 = Mod Hub|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC1B757-4432-468B-8878-8D9A2BF3FD35}.Debug|x64.ActiveCfg = Debug|x64
+		{FCC1B757-4432-468B-8878-8D9A2BF3FD35}.Debug|x64.Build.0 = Debug|x64
+		{FCC1B757-4432-468B-8878-8D9A2BF3FD35}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCC1B757-4432-468B-8878-8D9A2BF3FD35}.Debug|x86.Build.0 = Debug|Win32
+		{FCC1B757-4432-468B-8878-8D9A2BF3FD35}.Mod Hub|x64.ActiveCfg = Release|x64
+		{FCC1B757-4432-468B-8878-8D9A2BF3FD35}.Mod Hub|x64.Build.0 = Release|x64
+		{FCC1B757-4432-468B-8878-8D9A2BF3FD35}.Mod Hub|x86.ActiveCfg = Release|Win32
+		{FCC1B757-4432-468B-8878-8D9A2BF3FD35}.Mod Hub|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD969CC8-7B47-404F-A8C7-AF890636D44B}
+	EndGlobalSection
+EndGlobal
